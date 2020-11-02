@@ -6,7 +6,10 @@ astropy
 requests
 pyyaml
 synphot
+photutils
 
 scopesim
 pyckles
+spextra
 skycalc_ipy
+

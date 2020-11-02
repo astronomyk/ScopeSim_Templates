@@ -6,7 +6,9 @@ astropy<=3.2
 requests
 pyyaml
 synphot==0.1.3
+photutils
 
 scopesim
 pyckles
+spextra
 skycalc_ipy
