@@ -37,7 +37,7 @@ def setup_package():
                             "pyyaml>3",
                             "synphot>0.1",
                             "pyckles",
-                            "spextra",
+                            # "spextra",  # Removed by HB to use in conda build
                             "scopesim",
                             ],
           classifiers=["Programming Language :: Python :: 3",
